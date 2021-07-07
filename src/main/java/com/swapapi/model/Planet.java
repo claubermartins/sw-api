@@ -18,6 +18,6 @@ public class Planet {
 @GeneratedValue(strategy = GenerationType.IDENTITY)
 private Long id;
 private String name;
-//private String population;
-//private String url;
+private String population;
+private String url;
 }
