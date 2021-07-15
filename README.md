@@ -4,7 +4,7 @@
 
 **Link da API**:
 <p align="left">
-  <a href="https://luansousa.github.io/apresentacao.html">• SW-API</a>
+  <a href="https://swapi.dev/">• SW-API</a>
 </p>
 
 
